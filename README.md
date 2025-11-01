@@ -25,11 +25,25 @@ The bread and butter of my love for tech, the building. I did this to save money
 
 *Reference 1. All builds start in PCPARTPICKER.com after researching on new parts and seeing any price falls on past parts.*
 <img width="1905" height="912" alt="Screenshot 2025-10-31 230750" src="https://github.com/user-attachments/assets/45509c1d-489e-4e3b-ac75-c07547c670fa" />
+
 *Reference 2. After selecting parts I make sure the compatbility of parts are in the green and then parts are ordered.*
 <img width="1919" height="913" alt="Screenshot 2025-10-31 231544" src="https://github.com/user-attachments/assets/8b78da10-e986-4063-9ec6-46601619ca56" />
 *Reference 2. CON. If not Ill check the error message. If it is a size issue ill choose a different part. For example in one of my family member's build (and my current pc build) they wanted multiple Lian Li products which used multiple USB 2.0 Headers on the motherboard. The error being not enough USB headers. I bought an NZXT USB 2.0 Splitter to combat this issue. (Lian Li now fixed this common problem with making their own linking device, but at the time this was was not an option... PROBLEM SOLVING!!)*
 <img width="1201" height="37" alt="Screenshot 2025-10-31 231926" src="https://github.com/user-attachments/assets/cc54d0aa-f5ac-4877-9e96-0710b6fcd68e" />
 <img width="391" height="45" alt="Screenshot 2025-10-31 233005" src="https://github.com/user-attachments/assets/77535fdb-10d4-4c7f-9834-c6ff886e4644" />
+
+*Reference 3. All parts are bought and now its time to assemble the beast. (Step Moms Computer)*
+![image0](https://github.com/user-attachments/assets/cebc7273-5576-4a69-a43b-7dbca9ffd413)
+
+*Reference 4. A couple pictures of me assembling my step mom's PC... unfortunately these are the only photos I have of me assembling a computer. But a couple finished PCs will be shown below in "reference 5."*
+![image1](https://github.com/user-attachments/assets/962a0568-b75c-4a66-84d3-f68e104d5b4c)
+![image2](https://github.com/user-attachments/assets/1d17c153-afbc-4f9a-8796-600080dc4be5)
+
+*Reference 5. Finished products!!! As said in the "Objective" I have built 3, assisted with 1. I am showcasing in these photos 1 of my builds (Black), and my step mom's build (White)*
+
+![Adobe Express - Video (1)](https://github.com/user-attachments/assets/fd24a964-5b03-4349-ba4c-30f668cad39f)
+
+
 
 
 
