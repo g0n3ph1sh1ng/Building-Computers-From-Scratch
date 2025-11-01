@@ -40,8 +40,7 @@ The bread and butter of my love for tech, the building. I did this to save money
 ![image2](https://github.com/user-attachments/assets/1d17c153-afbc-4f9a-8796-600080dc4be5)
 
 *Reference 5. Finished products!!! As said in the "Objective" I have built 3, assisted with 1. I am showcasing in these photos 1 of my builds (Black), and my step mom's build (White)*
-
-![Adobe Express - Video (1)](https://github.com/user-attachments/assets/fd24a964-5b03-4349-ba4c-30f668cad39f)
+![Image](https://github.com/user-attachments/assets/daa088da-50c3-4b82-b4c8-6ce01dc865db)
 
 
 
