@@ -33,14 +33,17 @@ The bread and butter of my love for tech, the building. I did this to save money
 <img width="391" height="45" alt="Screenshot 2025-10-31 233005" src="https://github.com/user-attachments/assets/77535fdb-10d4-4c7f-9834-c6ff886e4644" />
 
 *Reference 3. All parts are bought and now its time to assemble the beast. (Step Moms Computer)*
-![image0](https://github.com/user-attachments/assets/cebc7273-5576-4a69-a43b-7dbca9ffd413)
+![image0](https://github.com/user-attachments/assets/fc9186bb-a0b4-4009-b2d2-afd2cd2c8786)
 
 *Reference 4. A couple pictures of me assembling my step mom's PC... unfortunately these are the only photos I have of me assembling a computer. But a couple finished PCs will be shown below in "reference 5."*
-![image1](https://github.com/user-attachments/assets/962a0568-b75c-4a66-84d3-f68e104d5b4c)
-![image2](https://github.com/user-attachments/assets/1d17c153-afbc-4f9a-8796-600080dc4be5)
+![image2](https://github.com/user-attachments/assets/81b07d75-2864-455d-b504-e71b07b8a95e)
+![image1](https://github.com/user-attachments/assets/ae4cde88-3a39-4442-9a3e-37a655f7c697)
 
 *Reference 5. Finished products!!! As said in the "Objective" I have built 3, assisted with 1. I am showcasing in these photos 1 of my builds (Black), and my step mom's build (White)*
-![Image](https://github.com/user-attachments/assets/daa088da-50c3-4b82-b4c8-6ce01dc865db)
+
+![Adobe Express - Video (1)](https://github.com/user-attachments/assets/25f76ecf-6410-4afe-8ff9-372392b3b6ca)
+![Adobe Express - Video (1)](https://github.com/user-attachments/assets/7eb82ed9-903f-47d2-a961-7c4073b56126)
+
 
 
 
